@@ -62,7 +62,6 @@ function nameString(name){
 	let result = name + "Edabit"
   	return result;
 }
-c
 console.log(nameString("Glory"));
 console.log(nameString("Bassey")); 
 console.log(nameString("javaScript"));
